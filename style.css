@@ -1,0 +1,48 @@
+.main-title {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(228, 248, 255);
+}
+
+.value-headers {
+  margin: 0;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Arial", serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#b {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#h{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
+}
